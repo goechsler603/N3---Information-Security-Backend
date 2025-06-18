@@ -18,4 +18,10 @@
   
 *Prazo de entrega: 08/07/2025.*
 
+
+Precisa possuir 2 roles para os usuarios;
+
+
 ![{A43DA768-9C22-4283-A986-84285ED541F6}](https://github.com/user-attachments/assets/8e35a2c1-30ed-444a-b2d8-788fa62a880f)
+
+![image](https://github.com/user-attachments/assets/93b6d3af-ab89-4926-95dd-3351e795e894)
